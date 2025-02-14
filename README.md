@@ -1,12 +1,11 @@
-YouTube Data Analysis Dashboard Project
+# YouTube Data Analysis Dashboard Project
 
-Overview
+## Overview
 
 This project involved building a comprehensive YouTube data analysis dashboard using Excel. The goal was to process, clean, and visualize data related to YouTube channels, video views, earnings, and country distribution. The dashboard provides insights into top-performing YouTube channels and their global distribution, helping identify trends and key performance metrics in the YouTube ecosystem.
 
-Key Sections
 
-Top YouTube Channels with Highest Yearly Earnings
+## Top YouTube Channels with Highest Yearly Earnings
 
 Objective:Identify the YouTube channels with the most subscribers and the highest yearly earnings.
 
@@ -22,7 +21,7 @@ T-Series leads with 245M subscribers and the highest earnings.
 
 Channels like MrBeast and Cocomelon also stand out with high subscribers and revenue.
 
-YouTubers Country Distribution
+## YouTubers Country Distribution
 
 Objective:Show the geographical distribution of top YouTubers worldwide.
 
@@ -38,7 +37,7 @@ The USA dominates with 309 top YouTubers, followed by countries like India and t
 
 Certain countries have emerging YouTube markets.
 
-Total Video Views
+## Total Video Views
 
 Objective:Highlight YouTube channels with the most total video views.
 
@@ -54,7 +53,7 @@ T-Series leads with 2,288B views.
 
 Cocomelon and SET India also have significant viewership.
 
-YouTuber Categories
+## YouTuber Categories
 
 Objective:Categorize YouTube channels by content type.
 
@@ -70,7 +69,7 @@ Entertainment (25%) and Music (20%) dominate.
 
 Gaming and Blogs have growing market shares.
 
-Total Uploads
+## Total Uploads
 
 Objective:Track the YouTube channels with the highest number of video uploads.
 
@@ -86,7 +85,7 @@ ABP News leads with 301K uploads.
 
 Other Indian news platforms like TV9 and Aaj Tak also rank high.
 
-Tools Used
+## Tools Used
 
 Microsoft Excel: Data processing, cleaning, and visualization.
 
@@ -96,7 +95,7 @@ Charts and Graphs: Bar charts, pie charts, and heatmaps.
 
 Data Cleaning: Removing duplicates, handling null values, and standardizing formats.
 
-Conclusion
+# Conclusion
 
 The dashboard consolidates multiple YouTube performance metrics into a single visual platform. It aids in understanding global YouTube trends, identifying top-performing channels, and guiding content strategies. This project showcases the power of Excel for data analysis and visualization, making complex data easily interpretable.
 
